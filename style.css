@@ -1,0 +1,71 @@
+html { height: 100% }
+
+body{
+    margin: 0;
+    padding: 0;  
+    height: 100%;
+}
+.skills{
+    margin: 0px;
+    padding: 0px;
+}
+
+.intro-text{
+    font-size: 125%;
+}
+
+.skills-h{
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    color: rgb(224, 225, 221);
+    
+}
+
+.my-body{
+    
+    background-color: rgb(27, 38, 59);
+    color: rgb(224, 225, 221);
+}
+
+.skills-a{
+    text-decoration: none;
+    color: rgb(224, 225, 221);
+}
+
+.p-inline{
+    display: inline-block;
+    margin-left:1% ;
+}
+.footer {
+    display: flex;
+    bottom: 0;
+    padding: 0px;
+    position:relative;
+    width: 100%;
+    color: white;
+    
+    margin: 0;
+  }
+
+.hmm{
+    list-style: none;
+    color: rgb(224, 225, 221)
+  }
+
+.f-div{
+    width: 50%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.ll{
+    color: rgb(224, 225, 221);
+}
+
+.f-div2{
+    width: 50%;
+    text-align: center;
+    align-items: flex-start;
+}
