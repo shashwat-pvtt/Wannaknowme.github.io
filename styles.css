@@ -23,3 +23,7 @@ div{margin: 5%;
   .button:hover{
     background-color: #a881af;
   }
+
+.button:active{
+    background-color: #a881af;
+  }
